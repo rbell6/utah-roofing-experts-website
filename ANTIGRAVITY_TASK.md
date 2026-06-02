@@ -27,6 +27,7 @@ Quality bar:
 - The service sections must use real signals from the brief/context, not placeholders.
 - Reused assets should feel curated: logo/brand assets, relevant service photos, trust badges, or imagery that supports credibility.
 - The design should look polished enough to show the lead as a preview.
+- You must create or materially update index.html and styles.css. Updating only Markdown files does not count as completing the implementation.
 - The site must work from a GitHub Pages project URL, use relative asset paths, and avoid backend dependencies.
 - DESIGN_RATIONALE.md should explain what improved from the current website, list reused asset URLs, and include 3-5 sales talking points for outreach.
 
