@@ -12,7 +12,9 @@ Read these local files before writing the site:
 - website-context.md
 - DESIGN_PLAN.md
 
-Execute the design plan below. Use the current website context as source material for services, navigation, tone, calls to action, proof points, and visual cues. Improve the site substantially, but do not copy long passages, layouts, or protected assets.
+Execute the design plan below. Use the current website context as source material for services, navigation, tone, calls to action, proof points, visual cues, and reusable assets.
+
+You may reuse existing public assets from the current website, including logos, photos, icons, badges, and service imagery, when they help the preview maintain brand continuity. This preview is a sales artifact before ownership transfer, so asset reuse is allowed as long as it is intentional and documented. Do not clone the old layout or copy long text passages verbatim; the redesign should be clearly improved.
 
 Required output files:
 - index.html
@@ -23,14 +25,15 @@ Required output files:
 Quality bar:
 - The first viewport must be business-specific and visually strong.
 - The service sections must use real signals from the brief/context, not placeholders.
+- Reused assets should feel curated: logo/brand assets, relevant service photos, trust badges, or imagery that supports credibility.
 - The design should look polished enough to show the lead as a preview.
 - The site must work from a GitHub Pages project URL, use relative asset paths, and avoid backend dependencies.
-- DESIGN_RATIONALE.md should explain what improved from the current website and list 3-5 sales talking points for outreach.
+- DESIGN_RATIONALE.md should explain what improved from the current website, list reused asset URLs, and include 3-5 sales talking points for outreach.
 
 # Design Plan: Utah Roofing Experts
 
 ## Objective
-Create a persuasive redesign preview that clearly improves the current website while preserving useful public facts, service language, and contact paths. Do not clone the existing site, copy long passages, or reuse protected assets.
+Create a persuasive redesign preview that clearly improves the current website while preserving useful public facts, service language, contact paths, and recognizable brand continuity. It is acceptable to reuse existing public site assets such as logos, photos, and icons as preview placeholders when they help the redesign feel connected to the original business.
 
 ## Audience
 Local customers searching for a trustworthy Roofing Contractor near 3300 Triumph Blvd Suite 200 #265, Lehi, UT 84043, USA.
@@ -42,6 +45,7 @@ Local customers searching for a trustworthy Roofing Contractor near 3300 Triumph
 - Current calls to action: Services; Commercial Services; Contact; Call (385)766-3464; Get a Free Estimate; View All Services
 - Current content signals: Utah County; Salt Lake City; Wasatch County; Summit County; Davis County; Weber County; Morgan County; Tooele County; Utah&#039;s Expert Residential and Commercial Roofing Services; Crafting Quality Homes
 - Current visual signals: colors #fff, #ffffff, #039, #000, rgba(255,165,0,0), rgba(0,0,0,.08), #ffc402, rgba(0,0,0,.16), #181d23, #8217; fonts inherit, Font Awesome 5 Free, fontAwesome, Archivo, Inter, star
+- Reusable asset candidates: https://www.facebook.com/tr?id=1898461420927762&ev=PageView&noscript=1; https://utahroofing.com/wp-content/uploads/2023/11/utah-roofing-logo-003.svg; https://utahroofing.com/wp-content/uploads/2024/03/BBB-Logo-1024x523-1.png; https://utahroofing.com/wp-content/uploads/2023/12/shutterstock_1581921583-scaled.webp; https://utahroofing.com/wp-content/uploads/2023/12/shutterstock_1672576810.webp; https://utahroofing.com/wp-content/uploads/2023/12/shutterstock_2254533275.webp
 - Redesign opportunity: make the business feel more credible, easier to contact, more specific to its services, and more visually polished than the current site.
 
 ## Positioning
@@ -71,12 +75,15 @@ Use the current site as loose brand input, then elevate it. Existing color signa
 ## Redesign Requirements
 - Keep factual details accurate: phone, address, hours, Google Maps link, business category, and rating.
 - Rephrase existing site content into concise modern copy instead of copying it.
+- Reuse existing public assets where useful for continuity, especially logos, hero photos, service photos, badges, or recognizable brand imagery.
+- Prefer reusing assets intentionally, not as clutter; every reused asset should support trust, service clarity, or brand continuity.
 - If the existing site has useful services, navigation labels, or CTAs, preserve the intent while improving hierarchy.
 - If the site has weak or missing design signals, choose a premium direction appropriate for the category.
 
 ## Execution Notes
 - Build a static GitHub Pages-ready site.
-- Avoid copying existing website assets or long passages verbatim.
+- Existing assets may be reused in this sales preview. Track reused asset URLs in DESIGN_RATIONALE.md so they can be reviewed before final ownership transfer.
+- Avoid copying long passages verbatim; rewrite copy into a sharper sales-focused voice.
 - Use relative asset paths so the site works under a GitHub Pages project URL.
 - Include DESIGN_RATIONALE.md explaining what was improved from the current site and what sales talking points to use with the lead.
 
