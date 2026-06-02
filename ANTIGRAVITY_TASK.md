@@ -1,4 +1,4 @@
-You are building a GitHub Pages-ready static website for a Prospector lead. This is a sales preview that should feel specific enough to help sell the redesign, not a generic local-business template.
+You are building a GitHub Pages-ready static website for a Prospector lead. This is a sales preview that should look beautiful, custom, and impressive enough to help sell the redesign. It must not look like a generic local-business template, a wireframe, or a default starter page.
 
 Business: Utah Roofing Experts
 Category: Roofing Contractor
@@ -26,7 +26,11 @@ Quality bar:
 - The first viewport must be business-specific and visually strong.
 - The service sections must use real signals from the brief/context, not placeholders.
 - Reused assets should feel curated: logo/brand assets, relevant service photos, trust badges, or imagery that supports credibility.
-- The design should look polished enough to show the lead as a preview.
+- The design should look polished enough to show the lead as a preview and make them feel the upgrade immediately.
+- Use expressive, professional visual design: strong type scale, intentional color palette, high-quality spacing, section contrast, polished cards, rich hero composition, and a clear conversion path.
+- Avoid plain stacked sections, default three-card layouts as the main idea, low-effort whitespace, generic copy, and anything that feels like a wireframe.
+- Include at least one distinctive business-specific section such as a project/gallery strip, process timeline, service-area proof, trust badges, FAQ, guarantee, or estimate-focused conversion band.
+- Make the site feel tailored to Utah Roofing Experts; use real details from the brief throughout.
 - You must create or materially update index.html and styles.css. Updating only Markdown files does not count as completing the implementation.
 - The site must work from a GitHub Pages project URL, use relative asset paths, and avoid backend dependencies.
 - DESIGN_RATIONALE.md should explain what improved from the current website, list reused asset URLs, and include 3-5 sales talking points for outreach.
@@ -72,6 +76,14 @@ Local customers searching for a trustworthy Roofing Contractor near 3300 Triumph
 Use the current site as loose brand input, then elevate it. Existing color signals: #fff, #ffffff, #039, #000, rgba(255,165,0,0), rgba(0,0,0,.08), #ffc402, rgba(0,0,0,.16), #181d23, #8217. Existing font signals: inherit, Font Awesome 5 Free, fontAwesome, Archivo, Inter, star. Keep any useful brand recognition, but redesign the layout, spacing, hierarchy, and conversion path so the preview feels premium rather than copied.
 - Make the preview beautiful enough to sell: strong first viewport, confident spacing, excellent mobile layout, clear rhythm, and service-specific content.
 - Use real business details from the brief throughout so the design feels made for Utah Roofing Experts, not dropped into a template.
+
+## Creative Quality Bar
+This must look like a custom, impressive sales preview, not a wireframe, default starter, or lightly styled template. Use strong art direction, dramatic but readable hierarchy, thoughtful spacing, real business details, and a polished responsive layout. The finished page should feel credible enough to show to Utah Roofing Experts as "we already made you something better."
+- Build an editorial-quality homepage with a memorable hero, layered visual composition, premium typography, polished cards/sections, and a clear visual story.
+- Avoid plain white wireframe layouts, generic three-card service grids as the primary design idea, default browser-looking forms, and placeholder-feeling copy.
+- Use brand continuity from captured colors, fonts, and assets, but elevate the design so it feels like a professional redesign concept.
+- Include at least one visually distinctive section beyond the hero: proof/results, process, service-area story, project/gallery strip, FAQ, guarantee, financing/insurance, or trust badges.
+- Every section should have a reason to exist and a specific sales purpose.
 
 ## Redesign Requirements
 - Keep factual details accurate: phone, address, hours, Google Maps link, business category, and rating.

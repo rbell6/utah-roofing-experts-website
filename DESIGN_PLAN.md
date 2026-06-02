@@ -40,6 +40,14 @@ Use the current site as loose brand input, then elevate it. Existing color signa
 - Make the preview beautiful enough to sell: strong first viewport, confident spacing, excellent mobile layout, clear rhythm, and service-specific content.
 - Use real business details from the brief throughout so the design feels made for Utah Roofing Experts, not dropped into a template.
 
+## Creative Quality Bar
+This must look like a custom, impressive sales preview, not a wireframe, default starter, or lightly styled template. Use strong art direction, dramatic but readable hierarchy, thoughtful spacing, real business details, and a polished responsive layout. The finished page should feel credible enough to show to Utah Roofing Experts as "we already made you something better."
+- Build an editorial-quality homepage with a memorable hero, layered visual composition, premium typography, polished cards/sections, and a clear visual story.
+- Avoid plain white wireframe layouts, generic three-card service grids as the primary design idea, default browser-looking forms, and placeholder-feeling copy.
+- Use brand continuity from captured colors, fonts, and assets, but elevate the design so it feels like a professional redesign concept.
+- Include at least one visually distinctive section beyond the hero: proof/results, process, service-area story, project/gallery strip, FAQ, guarantee, financing/insurance, or trust badges.
+- Every section should have a reason to exist and a specific sales purpose.
+
 ## Redesign Requirements
 - Keep factual details accurate: phone, address, hours, Google Maps link, business category, and rating.
 - Rephrase existing site content into concise modern copy instead of copying it.
