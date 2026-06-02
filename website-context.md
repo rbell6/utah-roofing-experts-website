@@ -1,32 +1,8 @@
-# Business Brief
+# Existing Website Context
 
-## Business
-- Name: Utah Roofing Experts
-- Category: Roofing Contractor
-- Address: 3300 Triumph Blvd Suite 200 #265, Lehi, UT 84043, USA
-- Phone: (385) 766-3464
-- Rating: 4.9 stars from 52 reviews
-- Website: https://utahroofing.com/
-- Google Maps: https://maps.google.com/?cid=12722813729160846961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA
-
-## Hours
-Monday: Open 24 hours
-Tuesday: Open 24 hours
-Wednesday: Open 24 hours
-Thursday: Open 24 hours
-Friday: Open 24 hours
-Saturday: 9:00 AM – 5:00 PM
-Sunday: Closed
-
-## Notes
-No notes yet.
-
-## Current Website Context
 Collected 5 pages from the current website.
 
-## Site-Wide Signals
-
-Navigation:
+## Navigation
 - Skip to content
 - About Us
 - Services
@@ -40,7 +16,7 @@ Navigation:
 - Lehi
 - Alpine
 
-Calls to action:
+## Calls to Action
 - Services
 - Commercial Services
 - Contact
@@ -54,11 +30,11 @@ Calls to action:
 - Siding services
 - https://utahroofing.com/services/local-solar-companies/
 
-Visual signals:
+## Visual Signals
 - Colors: #fff, #ffffff, #039, #000, rgba(255,165,0,0), rgba(0,0,0,.08), #ffc402, rgba(0,0,0,.16), #181d23, #8217
 - Fonts: inherit, Font Awesome 5 Free, fontAwesome, Archivo, Inter, star
 
-Image and subject-matter signals:
+## Image Signals
 - fbpx
 - Utah Roofing Experts in Green and White Logo
 - bbb accredited business
@@ -72,11 +48,7 @@ Image and subject-matter signals:
 - Side view of a residential home with brown shingle roofing and a backdrop of snowy mountains.
 - Flat commercial rooftop with multiple skylights, air vents, and HVAC units against a city backdrop
 
-Contact signals:
-- Phones: (385)766-3464
-- Emails: office@utahroofing.com
-
-## Captured Pages
+## Page Inventory
 - https://utahroofing.com/
   - Title: Expert Home &amp; Roof Services | Utah Roofing Experts
   - Description: We Are Utah Roofing Experts, Your Trusted Source For Home And Roof Services In Utah. Get Top-Tier Customized Roofing Solutions!
